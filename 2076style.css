@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px 30px;
+    margin: 15px;
+}
+
+form{
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:plum;
+    padding: 8px 15px 10px 20px;
+    
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea,
+select{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
